@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = ""
+baseURL = "https://peruvosem.vercel.app/"
 languageCode = "en"
 title = "Peruvosem"
 theme = "hargo"
@@ -98,7 +98,7 @@ mobile = "+51961926023"
 email = "gavac@gmail.com"
 location = "Calle Los Eucaliptos, Pucallpa 25002, Peru"
 # copyright
-copyright = "| Copyright &copy; 2021 [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
+copyright = "| Copyright &copy; 2021 https://peruvosem.vercel.app/ All Rights Reserved |"
 # Snipcart Credentials
 snipcartApiKey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
 currencySymbol = "$"
